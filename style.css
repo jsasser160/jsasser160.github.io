@@ -11,3 +11,7 @@ h1 {
   font-weight: bold;
   font-family: "Comic Sans MS", sans-serif;
 }
+
+h2 {
+  text-align: center;
+}
